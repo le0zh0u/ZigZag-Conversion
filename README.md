@@ -1,5 +1,5 @@
 # ZigZag-Conversion
-LeetCodeOJ Algorithms Question3 ZigZag Conversion
+LeetCodeOJ Algorithms Question6 ZigZag Conversion
 
 Question Name :
 ZigZag Conversion
